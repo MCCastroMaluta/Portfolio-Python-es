@@ -176,7 +176,7 @@
 > *"De la necesidad de un repuesto a entender la digitalización comercial regional"*
 
 **📓 Notebook:** [Ver análisis completo](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/blob/master/Notebooks/01-Data_Preparation.ipynb)
-**🔗 Repositorio:** [Mi github](https://github.com/MCCastroMaluta/Portfolio_data/tree/main/Python_esp)  
+**🔗 Repositorio:** [Mi github](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/tree/master/Notebooks)  
 **📧 Contacto:** mccastromaluta@gmail.com  
 **📍 Ubicación:** Tandil, Buenos Aires, Argentina
 
