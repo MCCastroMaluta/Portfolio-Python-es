@@ -68,7 +68,6 @@
 - 🌐 **Presencia web** (sitios oficiales)
 - 📱 **Redes sociales** (Facebook, Instagram, otras)
 - 🏪 **Distribución por ciudad**
-- 📈 **Patrones regionales**
 
 ---
 
