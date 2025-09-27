@@ -2,7 +2,7 @@
 # 🔍 Análisis de Presencia Digital de Comercios 
 ## *Del problema local a la investigación regional*
 
-![Tandil](https://github.com/MCCastroMaluta/Portfolio-Python-esp/blob/main/images/Portada.png)
+![Tandil](https://github.com/MCCastroMaluta/Portfolio-Python-esp/blob/main/Images/Portada.png)
 
 ## 🛠️ **Stack Tecnológico**
 
@@ -157,12 +157,9 @@
 - 💡 Oportunidades de mejora identificadas para comerciantes
 
 ### 📈 **Visualizaciones Incluidas**
-- 📊 Gráficos de barras comparativos entre ciudades
+- 📊 Gráficos de barras comparativos
 - 🥧 Distribuciones porcentuales de presencia digital
-- 🗺️ Análisis geográfico regional
 - 📈 Correlaciones población vs digitalización
-
-
 
 ---
 
