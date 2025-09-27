@@ -84,11 +84,7 @@
    - ¿Qué categorías comerciales tienen mayor digitalización?
    - ¿Cuáles son las más rezagadas?
 
-3. **⭐ Engagement Digital**
-   - ¿Los negocios con sitio web tienen más reseñas?
-   - ¿Existe correlación entre presencia digital y rating?
-
-4. **📈 Calidad del Servicio**
+3. **📈 Calidad del Servicio**
    - ¿Cuáles son los puntajes promedio por ciudad?
    - ¿La digitalización impacta en la percepción de calidad?
 
