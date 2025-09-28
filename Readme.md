@@ -166,7 +166,7 @@
 ## 🚀 **¡Explorá el Análisis Completo!**
 
 > *"De la necesidad de un repuesto a entender la digitalización comercial regional"*
-**💼 Portfolio:**[Mi Portfolio](https://www.datascienceportfol.io/mccastromaluta)
+> 
 **📓 Notebook:** [Ver análisis completo](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/blob/master/Notebooks/01-Data_Preparation.ipynb)
 **🔗 Repositorio:** [Mi github](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/tree/master/Notebooks)  
 **📧 Contacto:** mccastromaluta@gmail.com  
