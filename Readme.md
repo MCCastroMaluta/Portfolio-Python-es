@@ -172,10 +172,16 @@ El análisis revela una digitalización comercial desigual entre ciudades y cate
 ## 🚀 **¡Explorá el Análisis Completo!**
 
 > *"De la necesidad de un repuesto a entender la digitalización comercial regional"*
+<<<<<<< HEAD
 
 **💼 Portfolio:** [Mi Portfolio](https://www.datascienceportfol.io/mccastromaluta)  
 **📓 Notebook:** [Ver análisis completo](https://github.com/MCCastroMaluta/Portfolio-Python-es/tree/master/Notebooks)  
 **🔗 Repositorio:** [Mi GitHub](https://github.com/MCCastroMaluta/Portfolio-Python-es/tree/master)  
+=======
+> 
+**📓 Notebook:** [Ver análisis completo](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/blob/master/Notebooks/01-Data_Preparation.ipynb)
+**🔗 Repositorio:** [Mi github](https://github.com/MCCastroMaluta/Portfolio-Python-esp-main/tree/master/Notebooks)  
+>>>>>>> 035a459bad45e89380512349bea436afa3eb0c7d
 **📧 Contacto:** mccastromaluta@gmail.com  
 **📍 Ubicación:** Tandil, Buenos Aires, Argentina
 
